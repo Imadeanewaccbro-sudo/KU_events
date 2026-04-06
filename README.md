@@ -21,8 +21,8 @@ Open XAMPP and start Apache and MySQL
 Run setup.sql in the SQL of phpMyAdmin to create the database
 Open a terminal and run:
 
-cd "your-project-folder"
-npm install to add the packages for node.js to run the website on local host
+cd "your-project-folder" and then run
+"npm install" to add the packages for node.js to run the website on local host
 Run this line "node server.js" in powershell to start the server
 
 ## 📁 Your file structure should look like this after installing the package files
