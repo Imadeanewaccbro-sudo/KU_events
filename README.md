@@ -27,11 +27,6 @@ node server.js
 Open your browser and go to:
 
 http://localhost:3000/ku_simple.html
-Folder structure
-├── ku_simple.html    # the website
-├── server.js         # backend server
-├── setup.sql         # database setup
-└── package.json      # node dependencies
 Notes
 
 Works on local network too — just replace localhost with your IP
