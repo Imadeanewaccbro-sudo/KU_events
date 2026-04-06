@@ -1,20 +1,32 @@
-Karnavati University Event Registration Portal
+ 📅🎉Karnavati University Event Registration Portal
 A simple web app built for registering students to university events. Made as a college project using basic web technologies.
+
 What it does
 
-Shows all upcoming KU events for 2025–26
-Lets students fill a registration form
-Saves their details to a MySQL database
-Shows a success popup after registering
+🎉Shows all upcoming KU events for 2025–26
+📝Lets students fill a registration form
+💾Saves their details to a MySQL database
+✅Shows a success popup after registering
 
-Tech used
+🧑‍💻Tech used
 
 HTML, CSS, JavaScript – frontend
 Node.js + Express – backend server
 MySQL – database
 XAMPP – to run MySQL locally
 
-How to run it
+## 📁 Project Structure
+
+| File / Folder | Type | Description |
+|---|---|---|
+| 📁 node_modules/ | Folder | Installed npm dependencies |
+| 🌐 karnavati_event.html | HTML File | Main frontend page |
+| 📦 package.json | JSON File | Project metadata & dependencies |
+| 🔒 package-lock.json | JSON File | Locked dependency versions |
+| ⚙️ server.js | JS File | Node.js backend server |
+| 🗄️ setup.sql | SQL File | Database setup & schema |
+
+🏃How to run it:-
 
 Open XAMPP and start Apache and MySQL
 Run setup.sql in the SQL of phpMyAdmin to create the database
