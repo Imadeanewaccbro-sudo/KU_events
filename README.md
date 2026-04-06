@@ -15,17 +15,6 @@ Node.js + Express – backend server
 MySQL – database
 XAMPP – to run MySQL locally
 
-## 📁 Project Structure
-
-| File / Folder | Type | Description |
-|---|---|---|
-| 📁 node_modules/ | Folder | Installed npm dependencies |
-| 🌐 karnavati_event.html | HTML File | Main frontend page |
-| 📦 package.json | JSON File | Project metadata & dependencies |
-| 🔒 package-lock.json | JSON File | Locked dependency versions |
-| ⚙️ server.js | JS File | Node.js backend server |
-| 🗄️ setup.sql | SQL File | Database setup & schema |
-
 🏃How to run it:-
 
 Open XAMPP and start Apache and MySQL
@@ -35,6 +24,17 @@ Open a terminal and run:
 cd "your-project-folder"
 npm install to add the packages for node.js to run the website on local host
 Run this line "node server.js" in powershell to start the server
+
+## 📁 Your file structure should look like this after installing the package files
+
+| File / Folder | Type | Description |
+|---|---|---|
+| 📁 node_modules/ | Folder | Installed npm dependencies |
+| 🌐 "File Name".html | HTML File | Main frontend page |
+| 📦 package.json | JSON File | Project metadata & dependencies |
+| 🔒 package-lock.json | JSON File | Locked dependency versions |
+| ⚙️ server.js | JS File | Node.js backend server |
+| 🗄️ setup.sql | SQL File | Database setup & schema |
 
 Open your browser and go to:
 
