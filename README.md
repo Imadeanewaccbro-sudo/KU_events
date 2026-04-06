@@ -27,7 +27,8 @@ Run this line "node server.js" in powershell to start the server
 Open your browser and go to:
 
 http://localhost:3000/ku_simple.html and register then go to phpmyadmin and check if the registered data is being stored or not
-Notes
+
+How to run it for local public servers:
 
 Works on local network too — just replace localhost with your IP. This can be done by opening the html file in notepad and pressing the shortcut ctrl+f and search for fetch and then replace the localhost with your ip address while keeping the :3000
 Default MySQL password is blank (XAMPP default)
